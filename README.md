@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oi, meu nome é Lucas Gomes tenho 17 anos e faço o curso técnico de desenvolvimentos de sistemas no Instituto Federal Goiano Campus Iporá, Goiás.
 
 <!--
 **LuquinhaTv/LuquinhaTv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
