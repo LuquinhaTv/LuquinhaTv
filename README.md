@@ -1,5 +1,4 @@
-## Oi, meu nome é Lucas Gomes tenho 17 anos e faço o curso técnico de desenvolvimentos de sistemas no Instituto Federal Goiano Campus Iporá, Goiás.
-
+## My name is Lucas Gomes Lemes and I did the Technical degree in Systems Development integrated with High School education from IF Goiano in Iporá, Goiás.
 <!--
 **LuquinhaTv/LuquinhaTv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
